@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on graduating this fall with a CIS degree from The University of North Alabama.
-- 🌱 I’m currently learning networking, web development and enterprise architecture.
+- 🌱 I’m enrolled in classes learning networking, web development and enterprise architecture.
 - 💬 I'm starting to lean toward web development or cloud computing as my career goal!
 - ⚡ Fun fact: I love to game on my pc and ps5!
